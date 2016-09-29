@@ -1,0 +1,112 @@
+﻿<resources>
+    <string name="app_name2">Eventos disponibles</string>
+
+    <!-- Actividades -->
+    <string name="title_activity_update">Editar evento</string>
+    <string name="title_activity_detail">Detalle</string>
+    <string name="title_activity_insert">Nuevo evento</string>
+    <string name="id_an2">ca-app-pub-6257127863131971/2026810044</string>
+    <string name="id_an">ca-app-pub-6257127863131971/2026810044</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-6257127863131971/8073343645</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6257127863131971/8073343645</string>
+
+    <!-- Action Buttons -->
+    <string name="action_delete">Eliminar</string>
+    <string name="action_discard">Descartar</string>
+    <string name="action_edit">Editar</string>
+    <string name="sugerir_horario">Formulario de registro</string>
+    <string name="sugerir_horario1">Registrar horario</string>
+    <string name="action_done">Guardar</string>
+
+    <!-- Categorías -->
+    <string-array name="entradas_categoria">
+        <item>Administracion de SGBD</item>
+        <item>Administracion de SO</item>
+        <item>EIE</item>
+        <item>Seguridad informatica</item>
+        <item>Aplicaciones web</item>
+        <item>Servicios de red</item>
+        <item>Proyectos</item>
+        <item>Otros</item>
+    </string-array>
+
+    <!-- Diálogos -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_discard_msg">¿Descartar Cambios?</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_delete_msg">Se eliminará el evento</string>
+
+
+    <string name="app_name">iHorario</string>
+    <string name="carga">Cargando&#8230;</string>
+    <string name="clavInCorr">Clave Incorrecta!</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ciclo_academ">Curso 2016/2017</string>
+    <string name="fpTituloGS">CICLOS DE GRADO SUPERIOR</string>
+    <string name="asirTitulo">Administración de Sistemas Informáticos</string>
+    <string name="asirTituloRes">2° ASIR Informática</string>
+    <string name="asirTituloRes2">ASIR Informática</string>
+    <string name="afTitulo">Administración y Finanzas</string>
+    <string name="hbTitulo">Higiene Bucodental</string>
+    <string name="hbTitulo1">1° Higiene Bucodental</string>
+    <string name="dpcmTitulo">Desarrollo de Productos en Carpintería</string>
+    <string name="toast">Debe introducir la clave!</string>
+
+    <string name="fpTituloGM">CICLOS DE GRADO MEDIO</string>
+    <string name="caeTitulo">Cuidados Auxiliares de Enfermería</string>
+    <string name="cmTitulo">Carpintería y Mueble</string>
+    <string name="gaTitulo">Gestión Administrativa</string>
+    <string name="ieaTitulo">Instalaciones Eléctricas</string>
+
+    <!-- Promp de claves -->
+    <string name="intro_clave_titulo">Introduzca la clave de acceso</string>
+    <string name="hint_titulo">clave&#8230;</string>
+
+
+    <string name="title_section1">LUN</string>
+    <string name="title_section2">MAR</string>
+    <string name="title_section3">MIE</string>
+    <string name="title_section4">JUE</string>
+    <string name="title_section5">VIE</string>
+    <string name="action_addEvento">Ver o agregar eventos</string>
+    <string name="action_sug">Sugerencias</string>
+    <string name="action_eventos">Eventos</string>
+    <string name="action_shop">Número de clase actual.</string>
+    <string name="title_activity_main2">Nuevo evento</string>
+    <string name="title_activity_main22">Sugerencias</string>
+    <string name="title_activity_main23">Eventos disponibles</string>
+    <string name="title_activity_navegacion">NavegacionActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="avisoPrinc">Debe seleccionar su curso</string>
+    <string name="avisoSinHorario">Sin horario registrado! puede sugerir uno.</string>
+    <string name="txtBienvenida">Bienvenid@</string>
+    <string name="txtSelec">SELECCIONE SU CURSO</string>
+    <string name="txtAf1">AF 1</string>
+    <string name="txtAf2">AF 2</string>
+    <string name="txtAsir1">ASIR 1</string>
+    <string name="txtAsir2">ASIR 2</string>
+    <string name="txtHb1">HB 1</string>
+    <string name="txtHb2">HB 2</string>
+    <string name="txtDpcm1">DPCM 1</string>
+    <string name="txtDpcm2">DPCM 2</string>
+    <string name="txtCae1">CAE 1</string>
+    <string name="txtCae2">CAE 2</string>
+    <string name="txtIea1">IEA 1</string>
+    <string name="txtIea2">IEA 2</string>
+    <string name="txtGa1">GA 1</string>
+    <string name="txtGa2">GA 2</string>
+    <string name="txtCm1">CM 1</string>
+    <string name="txtCm2">CM 2</string>
+    <string name="menu_ayuda">Ayuda</string>
+    <string name="title_activity_registrar_horario">RegistrarHorario</string>
+    <string name="title_activity_ayuda">Ayuda</string>
+    <string name="title_activity_calender">CalenderActivity</string>
+
+    <string name="title_activity_autentificacion">Autentificacion</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

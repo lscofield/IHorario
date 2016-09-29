@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#F2F2F2</color>
+
+    <color name="primaryColor">#DF3A01</color>
+    <color name="primaryDarkColor">#B43104</color>
+    <color name="prim">#DF3A01</color>
+    <color name="accentColor">#C4A30E</color>
+
+    <color name="primary">#DF3A01</color>
+    <color name="accent">#DF3A01</color>
+    <color name="ripple">#DF3A01</color>
+    <color name="tertiary">#455561</color>
+    <color name="background">#F2F2F2</color>
+    <color name="textColorPrimary">#323232</color>
+    <color name="textColorSecondary">#434343</color>
+    <color name="transparent_actionbar_background">#24000000</color>
+
+    <!-- MINI FAB -->
+    <color name="colorNormalMini">#FE642E</color>
+    <color name="colorPressedMini">#DF3A01</color>
+    <color name="colorRippleMini">#F2F2F2</color>
+
+    <!-- BACKGROUND DETAIL -->
+    <color name="saludColor">#DF3A01</color>
+    <color name="finanzasColor">#DF3A01</color>
+    <color name="espiritualColor">#DF3A01</color>
+    <color name="profesionalColor">#DF3A01</color>
+    <color name="materialColor">#DF3A01</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>

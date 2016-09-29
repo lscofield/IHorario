@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context="es.tudir.horario.AfFragment">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtSelec"
+        android:padding="20dp"
+        android:textSize="28sp"
+        android:textColor="@color/primaryColor"
+        android:id="@+id/mainAf0"
+        android:background="#ededed"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtAf2"
+        android:padding="1dp"
+        android:textColor="#fff"
+        android:background="@drawable/btn_circle_default"
+        android:textSize="28sp"
+        android:id="@+id/btnAf2"
+        android:onClick="onAf2Click"
+        android:layout_marginBottom="10dp"
+        android:layout_below="@+id/mainAf0"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtAf1"
+        android:padding="1dp"
+        android:textColor="#fff"
+        android:background="@drawable/btn_circle_default"
+        android:textSize="28sp"
+        android:id="@+id/btnAf1"
+        android:onClick="onAfClick"
+        android:layout_above="@+id/mainAf0"
+        android:layout_alignLeft="@+id/btnAf2"
+        android:layout_alignStart="@+id/btnAf2"
+        android:layout_marginBottom="45dp" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView2"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

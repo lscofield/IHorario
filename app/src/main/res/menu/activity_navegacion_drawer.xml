@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/fpTituloGS">
+        <menu android:checkableBehavior="single">
+            <item android:id="@+id/asir" android:icon="@android:drawable/ic_menu_directions"
+            android:title="@string/asirTitulo" />
+            <item android:id="@+id/a_f" android:icon="@android:drawable/ic_menu_directions"
+            android:title="@string/afTitulo" />
+            <item android:id="@+id/h_b" android:icon="@android:drawable/ic_menu_directions"
+            android:title="@string/hbTitulo" />
+            <item android:id="@+id/dpcm" android:icon="@android:drawable/ic_menu_directions"
+            android:title="@string/dpcmTitulo" />
+        </menu>
+    </item>
+
+    <item android:title="@string/fpTituloGM">
+        <menu>
+            <item android:id="@+id/c_m" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/cmTitulo" />
+            <item android:id="@+id/g_a" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/gaTitulo" />
+            <item android:id="@+id/ie_a" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/ieaTitulo" />
+            <item android:id="@+id/ca_e" android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/caeTitulo" />
+        </menu>
+    </item>
+
+</menu>

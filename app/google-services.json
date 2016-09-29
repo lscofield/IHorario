@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183331264457",
+    "firebase_url": "https://ihorario-3ddc4.firebaseio.com",
+    "project_id": "ihorario-3ddc4",
+    "storage_bucket": "ihorario-3ddc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183331264457:android:ab7a3c6dcba1f4b9",
+        "android_client_info": {
+          "package_name": "es.tudir.horario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183331264457-ncd7grfij87bditq3lm61oss8h1a3nvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.tudir.horario",
+            "certificate_hash": "44E1A214683310BC40F8B72855D402E529BCEDBC"
+          }
+        },
+        {
+          "client_id": "183331264457-3iknh5hobkrstjgg0vqliv582lrpiop4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGQ5w8-B_DlDGtlIS1TG4EHtdmLfCVYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183331264457-3iknh5hobkrstjgg0vqliv582lrpiop4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
